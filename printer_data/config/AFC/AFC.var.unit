@@ -79,7 +79,7 @@
             "lane": 4,
             "map": "T3",
             "load": true,
-            "prep": false,
+            "prep": true,
             "tool_loaded": true,
             "loaded_to_hub": true,
             "material": "PLA",
@@ -88,8 +88,8 @@
             "weight": 123.98854114862536,
             "extruder_temp": 210,
             "runout_lane": "NONE",
-            "filament_status": "Not Ready",
-            "filament_status_led": "#ff0000",
+            "filament_status": "In Tool",
+            "filament_status_led": "#0000ff",
             "status": "Tool Unloading"
         }
     },
